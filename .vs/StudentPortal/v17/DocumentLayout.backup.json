@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\studentportal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\studentportal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\codeproject\\software\\back end\\asp.net\\learncsharp\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF54AC8-9F64-468E-A70D-7AE084DAE421}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\appsettings.Development.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T07:42:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T07:42:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentPortal.Web.csproj",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\StudentPortal.Web.csproj",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\StudentPortal.Web.csproj",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\StudentPortal.Web.csproj",
+              "RelativeToolTip": "StudentPortal.Web\\StudentPortal.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T07:42:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:42:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T05:33:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:48:09.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T04:30:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:56:09.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wFcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:03:42.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:38:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:24:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\codeProject\\Software\\Back End\\ASP.NET\\LearnCSHARP\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:18:59.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
